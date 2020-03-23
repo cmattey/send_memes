@@ -14,9 +14,9 @@ Meme server using Twilio and PRAW
 pip install -r requirements.txt
 ```
 
-- ![create](http://twilio.com/try-twilio) a Twilio account
+- [create](http://twilio.com/try-twilio) a Twilio account
 - Buy a Number
-- ![register](https://www.reddit.com/prefs/apps/) an application on reddit
+- [register](https://www.reddit.com/prefs/apps/) an application on reddit
 
 - export the necessary env variables in your terminal instance:
 ```sh
