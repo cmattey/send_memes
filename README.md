@@ -2,7 +2,7 @@
 Meme server using Twilio and PRAW
 
 > Usecase
-![Example](https://github.com/cmattey/send_memes/blob/master/imgsrc/ss.jpeg)
+<img src="https://github.com/cmattey/send_memes/blob/master/imgsrc/ss.jpeg" width="300" height="600" />
 
 ## Usage
 - Just send a message to the Twilio Number asking for memes, Eg: "Meme me!"
