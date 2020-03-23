@@ -43,3 +43,6 @@ def get_memes():
     else:
         resp.message("I can only send memes, try asking me for a meme")
         return str(resp)
+
+if __name__ == '__main__':
+    app.run()
